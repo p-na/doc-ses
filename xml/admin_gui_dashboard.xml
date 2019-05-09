@@ -2203,7 +2203,7 @@ scrape_configs:
   <sect2 xml:id="dash.rbd_mirror">
    <title>RBD Mirroring</title>
    <tip>
-    <title></title>
+    <title>General Information</title>
     <para>
      For general information and command line approach to &rbd; mirroring,
      refer to <xref linkend="ceph.rbd.mirror" />.
