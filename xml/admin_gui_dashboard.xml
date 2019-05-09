@@ -2199,6 +2199,19 @@ scrape_configs:
     </para>
    </sect3>
   </sect2>
+  <sect2 xml:id="dash.rbd_qos">
+   <title>RBD Quality of Service (QoS)</title>
+   <tip>
+    <title>For More Information</title>
+    <para>
+     For more general information and a description of RBD QoS configuration options,
+     refer to <xref linkend="rbd.qos" />.
+    </para>
+   </tip>
+   <para>
+    <!-- insert your contribution here -->
+   </para>
+  </sect2>
  </sect1>
  <sect1 xml:id="dash.webui.nfs">
   <title>Managing &ganesha;</title>
