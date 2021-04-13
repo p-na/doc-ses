@@ -8,5 +8,9 @@
 # when working with docker
 .viminfo
 .bash_history
+.cache/
+.config/
+.java/
+.fop/
 
 build/
